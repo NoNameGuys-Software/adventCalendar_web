@@ -3,10 +3,13 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "2efbb41d7877d10aac9d091f58ccd7b9",
-"assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
+  "assets/AssetManifest.json": "65740e83763fbd33aa50ff4ea50167ef",
+"assets/assets/bauble-christmas-svgrepo-com.svg": "d1576a41f21fca52ff8616c83b6cd1d0",
+"assets/assets/christmas-tree-svgrepo-com.svg": "3e0fdd4391d54776f770891d32bd54c8",
+"assets/FontManifest.json": "ee3ff7068f02ea02477b782bb81934fe",
+"assets/fonts/almonte_snow.ttf": "7640c74f9b7c84f33e934f1b96cb4eb7",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
-"assets/NOTICES": "a8757ae4c85cd3ba736d1859135d870c",
+"assets/NOTICES": "52deae3ea071792c87851392ffc9b7b0",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
 "canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba",
@@ -18,9 +21,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "d8d9619611064a1ba331619cd0049b79",
-"/": "d8d9619611064a1ba331619cd0049b79",
-"main.dart.js": "5843cbb03975d04c077c11a8d164362c",
+"index.html": "2bcd0078b5521b98f53cafe5d616ef8b",
+"/": "2bcd0078b5521b98f53cafe5d616ef8b",
+"main.dart.js": "0c5b30710e6adc62e261183e493a0cce",
 "manifest.json": "c54d5349eca53bb90a2936b48ce3193e",
 "version.json": "c68233bdd4e11de6817869735783b9da"
 };
