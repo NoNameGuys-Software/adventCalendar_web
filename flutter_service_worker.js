@@ -3,9 +3,10 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "65740e83763fbd33aa50ff4ea50167ef",
+  "assets/AssetManifest.json": "5a47abfc35ff91f3295c57d83b339a30",
 "assets/assets/bauble-christmas-svgrepo-com.svg": "d1576a41f21fca52ff8616c83b6cd1d0",
 "assets/assets/christmas-tree-svgrepo-com.svg": "3e0fdd4391d54776f770891d32bd54c8",
+"assets/assets/snowman-svgrepo-com.svg": "c8cac25ffe3d15da93ef1936b484beaf",
 "assets/FontManifest.json": "ee3ff7068f02ea02477b782bb81934fe",
 "assets/fonts/almonte_snow.ttf": "7640c74f9b7c84f33e934f1b96cb4eb7",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
@@ -21,9 +22,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "87b7c37aab84cd4de375d9e83ccb5769",
-"/": "87b7c37aab84cd4de375d9e83ccb5769",
-"main.dart.js": "9be8659de42dbd93225bfe0191394d51",
+"index.html": "c3f440b1c28e9a703d803a2ee99e2313",
+"/": "c3f440b1c28e9a703d803a2ee99e2313",
+"main.dart.js": "20c5fa8cbfcc45c8cea58fc43b8f03f4",
 "manifest.json": "c54d5349eca53bb90a2936b48ce3193e",
 "version.json": "c68233bdd4e11de6817869735783b9da"
 };
